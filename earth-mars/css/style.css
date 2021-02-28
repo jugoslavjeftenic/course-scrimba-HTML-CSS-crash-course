@@ -1,0 +1,13 @@
+h1 {
+    font-size: 60px;
+}
+
+.earth h1,
+.earth h2 {
+    color: #2a8442;
+}
+
+.mars h1,
+.mars h2 {
+    color: #d33d1f;
+}
