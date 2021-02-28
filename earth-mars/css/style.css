@@ -1,13 +1,21 @@
-h1 {
-    font-size: 60px;
+body {
+    background-color: #333;
+    color: #f4f4f4;
 }
 
-.earth h1,
-.earth h2 {
+a {
+    color: darksalmon;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+.earth-title {
     color: #2a8442;
 }
 
-.mars h1,
-.mars h2 {
+.mars-title {
     color: #d33d1f;
 }
+
