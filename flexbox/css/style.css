@@ -1,31 +1,52 @@
 body {
     margin: 0;
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
 }
 
 a {
-    color: blanchedalmond;
+    color: #588C94;
 }
 
 header {
-    background-color: #4a4a4a;
-    color: blanchedalmond;
+    background-color: #588C94;
+    color: white;
     text-align: center;
-    padding: 25px 0;
-    margin-bottom: 25px;
+    padding: 50px 0;
 }
 
-main {
-    background-color: e4e4e4;
-    width: 600px;
-    padding: 25px;
-    border: solid 5px red;
+.intro {
+    width: 500px;
     margin: 0 auto;
+    text-align: center;
+}
+
+.my-skills {
+    background-color: #1D3C41;
+    color: white;
+    padding: 30px 0;
+}
+
+.columns {
+    width: 750px;
+    display: flex;
+}
+
+.column {
+    margin: 5px;
 }
 
 footer {
-    background-color: #4a4a4a;
-    color: blanchedalmond;
     text-align: center;
-    padding: 25px 0;
-    margin-top: 25px;
 }
